@@ -33,7 +33,7 @@ const useScrollReveal = () => {
 const FloatingWhatsApp = () => {
   return (
     <a 
-      href="https://wa.me/919823782121?text=Hi%2C%20I%20am%20interested%20in%20the%20Video%20Mastery%20Program"
+      href="https://wa.me/917558309097?text=Hi%2C%20I%20am%20interested%20in%20the%20Video%20Mastery%20Program"
       target="_blank"
       rel="noopener noreferrer"
       className="fixed bottom-6 right-6 z-50 w-14 h-14 md:w-16 md:h-16 bg-[#25D366] rounded-full flex items-center justify-center shadow-[0_4px_20px_rgba(37,211,102,0.4)] hover:shadow-[0_4px_30px_rgba(37,211,102,0.6)] hover:scale-110 transition-all duration-300 group"
@@ -124,7 +124,7 @@ const Navbar: React.FC<NavigationProps> = ({ currentPage, onNavigate }) => {
         <div className="flex items-center gap-4">
             {/* Desktop Enroll Button */}
             <a 
-              href="https://wa.me/919823782121?text=Hi%2C%20I%20am%20interested%20in%20the%20Video%20Mastery%20Program" 
+              href="https://wa.me/917558309097?text=Hi%2C%20I%20am%20interested%20in%20the%20Video%20Mastery%20Program" 
               target="_blank"
               rel="noopener noreferrer"
               onClick={handleEnrollClick}
@@ -160,7 +160,7 @@ const Navbar: React.FC<NavigationProps> = ({ currentPage, onNavigate }) => {
                 ))}
                 
                 <a 
-                  href="https://wa.me/919823782121?text=Hi%2C%20I%20am%20interested%20in%20the%20Video%20Mastery%20Program"
+                  href="https://wa.me/917558309097?text=Hi%2C%20I%20am%20interested%20in%20the%20Video%20Mastery%20Program"
                   target="_blank"
                   rel="noopener noreferrer"
                   onClick={() => {
@@ -409,7 +409,7 @@ const Hero = () => {
         <div className="flex flex-col md:flex-row items-center justify-center gap-6 w-full animate-fade-in-up mt-1 md:mt-2" style={{ animationDelay: '0.5s' }}>
             {/* WhatsApp - Green Button */}
             <a 
-              href="https://wa.me/919823782121?text=Hi%2C%20I%20am%20interested%20in%20the%20Video%20Mastery%20Program" 
+              href="https://wa.me/917558309097?text=Hi%2C%20I%20am%20interested%20in%20the%20Video%20Mastery%20Program" 
               target="_blank"
               rel="noopener noreferrer"
               className="w-full md:w-auto px-8 py-4 bg-[#25D366] text-black font-oswald font-bold text-lg uppercase tracking-wider rounded-xl hover:bg-[#1fb854] transition-all duration-300 flex items-center justify-center gap-3 shadow-[0_0_20px_rgba(37,211,102,0.4)] hover:shadow-[0_0_40px_rgba(37,211,102,0.6)] hover:scale-105 min-w-[260px]"
@@ -420,7 +420,7 @@ const Hero = () => {
 
             {/* Call Now - Outlined Button */}
             <a 
-              href="tel:+919823782121"
+              href="tel:+917558309097"
               className="w-full md:w-auto px-8 py-4 bg-transparent border border-white/20 text-white font-oswald font-bold text-lg uppercase tracking-wider rounded-xl hover:bg-white/5 hover:border-white/50 transition-all duration-300 flex items-center justify-center gap-3 min-w-[260px]"
             >
               <Phone className="w-6 h-6" />
@@ -671,7 +671,7 @@ const StageCard = ({
 
                         {/* WhatsApp CTA */}
                         <a 
-                            href="https://wa.me/919823782121?text=Hi%2C%20I%20am%20interested%20in%20the%20Video%20Mastery%20Program" 
+                            href="https://wa.me/917558309097?text=Hi%2C%20I%20am%20interested%20in%20the%20Video%20Mastery%20Program" 
                             target="_blank"
                             rel="noopener noreferrer"
                             className="mt-8 inline-flex items-center gap-3 px-8 py-3.5 bg-[#25D366] text-black font-oswald font-bold text-base uppercase tracking-wider rounded-full hover:bg-[#1fb854] transition-all duration-300 shadow-[0_4px_15px_rgba(37,211,102,0.3)] hover:shadow-[0_6px_20px_rgba(37,211,102,0.4)] hover:scale-105"
@@ -1255,7 +1255,7 @@ const Footer: React.FC<NavigationProps> = ({ currentPage, onNavigate }) => (
                     
                     <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 w-full mt-4">
                         <a 
-                          href="https://wa.me/919823782121?text=Hi%2C%20I%20am%20interested%20in%20the%20Video%20Mastery%20Program" 
+                          href="https://wa.me/917558309097?text=Hi%2C%20I%20am%20interested%20in%20the%20Video%20Mastery%20Program" 
                           target="_blank"
                           rel="noopener noreferrer"
                           className="flex items-center justify-center py-4 rounded-xl bg-[#25D366] text-black font-oswald font-bold text-lg uppercase tracking-wide hover:scale-105 transition-all duration-300 shadow-lg gap-2"
@@ -1264,7 +1264,7 @@ const Footer: React.FC<NavigationProps> = ({ currentPage, onNavigate }) => (
                            WhatsApp
                         </a>
                         <a 
-                          href="tel:+919823782121" 
+                          href="tel:+917558309097" 
                           className="flex items-center justify-center py-4 rounded-xl bg-white/5 hover:bg-white/10 border border-white/10 hover:border-white/30 text-white font-oswald font-bold text-lg uppercase tracking-wide transition-all duration-300 gap-2"
                         >
                            <Phone className="w-5 h-5" />
@@ -1284,9 +1284,9 @@ const Footer: React.FC<NavigationProps> = ({ currentPage, onNavigate }) => (
             <div className="flex flex-col items-center gap-6 mb-8 relative z-10 w-full max-w-4xl">
                 {/* Contact Row */}
                 <div className="flex flex-wrap justify-center gap-4">
-                     <a href="tel:+919823782121" className="flex items-center gap-3 px-6 py-3 rounded-full bg-zinc-900 border border-white/10 hover:border-tryqGold/30 hover:bg-zinc-800 transition-all duration-300 group">
+                     <a href="tel:+917558309097" className="flex items-center gap-3 px-6 py-3 rounded-full bg-zinc-900 border border-white/10 hover:border-tryqGold/30 hover:bg-zinc-800 transition-all duration-300 group">
                         <Phone className="w-4 h-4 text-gray-400 group-hover:text-tryqGold transition-colors" />
-                        <span className="text-gray-300 font-medium text-sm">+91 98237 82121</span>
+                        <span className="text-gray-300 font-medium text-sm">+91 75583 09097</span>
                      </a>
                      <a href="mailto:contact@tryq.in" className="flex items-center gap-3 px-6 py-3 rounded-full bg-zinc-900 border border-white/10 hover:border-tryqGold/30 hover:bg-zinc-800 transition-all duration-300 group">
                         <Mail className="w-4 h-4 text-gray-400 group-hover:text-tryqGold transition-colors" />
